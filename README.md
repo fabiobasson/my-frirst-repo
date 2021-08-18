@@ -1,2 +1,2 @@
-# my-frirst-repo
+# my-repo
 Repositório de testes kkkkkkk
